@@ -22,16 +22,16 @@ Foundation e AWS Certified AI Practitioner.
 <img align="center" height="45" width="45" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/whatsapp.svg" style="background-color:#25D366; border-radius:50%; padding:8px;">
 </a>&nbsp;&nbsp;
 <a href="mailto:lellis.joseanesl@gmail.com" target="_blank" rel="noopener noreferrer">
-<img align="center" height="45" width="45" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
+<img align="center" height="45" width="45" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" style="background-color:#EA4335; border-radius:50%; padding:8px;">
 </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/joseane-lelis-b535a5148/" target="_blank" rel="noopener noreferrer">
-<img align="center" height="45" width="45" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
+<img align="center" height="45" width="45" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" style="background-color:#0A66C2; border-radius:50%; padding:8px;">
 </a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/lelis_belle?igsh=MXhyanpjaGN6aTQ1Yg==" target="_blank" rel="noopener noreferrer">
-<img align="center" height="45" width="45" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b">
+<img align="center" height="45" width="45" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" style="background-color:#E4405F; border-radius:50%; padding:8px;">
 </a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UCDHwth6vR6--tPcyIz4P81Q" target="_blank" rel="noopener noreferrer">
-<img align="center" height="45" width="45" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3000a2c-f43c-4145-9f8d-3c5b58a5dae0">
+<a href="https://www.youtube.com/@TremTech_Podcast" target="_blank" rel="noopener noreferrer">
+<img align="center" height="45" width="45" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/youtube.svg" style="background-color:#FF0000; border-radius:50%; padding:8px;">
 </a>
 
 </div>
@@ -91,6 +91,8 @@ Dez/2025 — Atual · São Paulo/SP</p>
 
 <br>
 
+<div align="center">
+
 ## 🛠️ Stack Técnica
 
 **Linguagens de Programação**
@@ -133,6 +135,8 @@ Dez/2025 — Atual · São Paulo/SP</p>
 ![Scrum](https://img.shields.io/badge/Scrum-0052CC?style=for-the-badge&logoColor=white)
 ![ITIL](https://img.shields.io/badge/ITIL_4-6C6C6C?style=for-the-badge&logoColor=white)
 
+</div>
+
 <br>
 
 ## 🎓 Formação & Certificações
@@ -159,7 +163,6 @@ Dez/2025 — Atual · São Paulo/SP</p>
 <h2>💜 Girls Tech</h2>
 <p><b>Comunidade que fundei para apoiar e conectar mulheres na tecnologia</b></p>
 
-<a href="https://lnkd.in/p/djR5MUnT" target="_blank" rel="noopener noreferrer">Saiba mais sobre a Girls Tech →</a>
 </div>
 
 <br>
