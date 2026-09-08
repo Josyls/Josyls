@@ -44,6 +44,20 @@ Foundation e AWS Certified AI Practitioner.
 
 <br>
 
+## 🏢 Empresa Onde Trabalho
+
+<div align="center">
+<a href="https://www.itau.com.br" target="_blank" rel="noopener noreferrer">
+<img src="assets/itau.png" width="150" alt="Itaú Unibanco"/>
+</a>
+
+<h3>Itaú Unibanco</h3>
+<p style="color:#c9d1d9;"><b>Governança & Métricas — Telecom</b></p>
+<p style="color:#8b949e; font-size:13px;">Dez/2025 — Atual · São Paulo/SP</p>
+</div>
+
+<br>
+
 ## 💼 Empresas em que já trabalhei
 
 <div align="center">
