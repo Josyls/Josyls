@@ -19,19 +19,19 @@ Foundation e AWS Certified AI Practitioner.
 <div align="center">
 
 <a href="https://wa.me/5511916650753" target="_blank" rel="noopener noreferrer">
-<img align="center" height="45" width="45" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/whatsapp.svg" style="background-color:#25D366; border-radius:50%; padding:8px;">
+<img align="center" height="50" width="50" src="assets/icon-whatsapp.png">
 </a>&nbsp;&nbsp;
 <a href="mailto:lellis.joseanesl@gmail.com" target="_blank" rel="noopener noreferrer">
-<img align="center" height="45" width="45" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" style="background-color:#EA4335; border-radius:50%; padding:8px;">
+<img align="center" height="50" width="50" src="assets/icon-gmail.png">
 </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/joseane-lelis-b535a5148/" target="_blank" rel="noopener noreferrer">
-<img align="center" height="45" width="45" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" style="background-color:#0A66C2; border-radius:50%; padding:8px;">
+<img align="center" height="50" width="50" src="assets/icon-linkedin.png">
 </a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/lelis_belle?igsh=MXhyanpjaGN6aTQ1Yg==" target="_blank" rel="noopener noreferrer">
-<img align="center" height="45" width="45" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" style="background-color:#E4405F; border-radius:50%; padding:8px;">
+<img align="center" height="50" width="50" src="assets/icon-instagram.png">
 </a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/@TremTech_Podcast" target="_blank" rel="noopener noreferrer">
-<img align="center" height="45" width="45" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/youtube.svg" style="background-color:#FF0000; border-radius:50%; padding:8px;">
+<img align="center" height="50" width="50" src="assets/icon-youtube.png">
 </a>
 
 </div>
@@ -52,7 +52,7 @@ Foundation e AWS Certified AI Practitioner.
 </a>
 
 <h3>Itaú Unibanco</h3>
-<p><b>Estagiária de Tecnologia — Governança de TI e Métricas de Desempenho</b><br>
+<p><b>Governança & Métricas — Telecom</b><br>
 Dez/2025 — Atual · São Paulo/SP</p>
 </div>
 
@@ -64,24 +64,24 @@ Dez/2025 — Atual · São Paulo/SP</p>
 
 <table>
 <tr>
-<td align="center" width="140">
+<td align="center" width="150">
 <a href="https://www.ford.com.br" target="_blank" rel="noopener noreferrer">
-<img src="assets/ford.png" width="90" alt="Ford"/>
+<img src="assets/ford.png" width="130" alt="Ford"/>
 </a><br><b>Ford</b><br><sub>Estagiária de BI em Marketing</sub><br><sub>Set/2024 — Jun/2025</sub>
 </td>
-<td align="center" width="140">
+<td align="center" width="150">
 <a href="https://www.caixa.gov.br" target="_blank" rel="noopener noreferrer">
-<img src="assets/caixa.png" width="80" alt="Caixa Econômica Federal"/>
+<img src="assets/caixa.png" width="130" alt="Caixa Econômica Federal"/>
 </a><br><b>Caixa Econômica Federal</b><br><sub>Monitora de Qualidade / Suporte</sub><br><sub>2019 — 2021</sub>
 </td>
-<td align="center" width="140">
+<td align="center" width="150">
 <a href="https://www.tjce.jus.br" target="_blank" rel="noopener noreferrer">
-<img src="assets/tjce.png" width="90" alt="TJCE"/>
+<img src="assets/tjce.png" width="130" alt="TJCE"/>
 </a><br><b>TJCE</b><br><sub>Analista de Suporte (ITIL/Zabbix)</sub><br><sub>2021 — 2022</sub>
 </td>
-<td align="center" width="140">
+<td align="center" width="150">
 <a href="https://www.gov.br/pf" target="_blank" rel="noopener noreferrer">
-<img src="assets/policia-federal.png" width="80" alt="Polícia Federal"/>
+<img src="assets/policia-federal.png" width="130" alt="Polícia Federal"/>
 </a><br><b>Polícia Federal</b><br><sub>Analista de Suporte</sub><br><sub>2023 — 2024</sub>
 </td>
 </tr>
@@ -126,9 +126,19 @@ Dez/2025 — Atual · São Paulo/SP</p>
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 ![Amazon QuickSight](https://img.shields.io/badge/Amazon_QuickSight-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-**Cloud & Ferramentas**
+**Inteligência Artificial**
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-4B0082?style=for-the-badge&logoColor=white)
+
+**Cloud & Infraestrutura**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -171,8 +181,10 @@ Dez/2025 — Atual · São Paulo/SP</p>
 
 ### ✨ Quer fazer parte da Girls Tech?
 
-**Me chama no [WhatsApp](https://wa.me/5511916650753) pedindo pra entrar na comunidade**
+<p>
+<b>Me chama no <a href="https://wa.me/5511916650753" target="_blank" rel="noopener noreferrer">WhatsApp</a> pedindo pra entrar na comunidade</b>
 que eu te mando o link do grupo! 💜
+</p>
 
 </div>
 
@@ -189,10 +201,10 @@ que eu te mando o link do grupo! 💜
 <br>
 
 <div align="center">
-<p><b>Visitors Count</b></p>
-<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fjosyls&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" />
+<p><b>Número de Visitantes</b></p>
+<img src="https://komarev.com/ghpvc/?username=josyls&color=db006a&style=for-the-badge&label=Visitantes" alt="Visitor count"/>
 </div>
 
 <br>
 
-<img width=100% src="https://github.com/carolbarbosa101/carolbarbosa101/assets/126184343/260b0d7a-26c8-444f-b9b5-74210c0017b1"/>
+<img width=100% src="assets/banner-joseane.png"/>
