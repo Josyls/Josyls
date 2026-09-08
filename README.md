@@ -21,7 +21,7 @@ Foundation e AWS Certified AI Practitioner.
 <a href="https://wa.me/5511916650753" target="_blank" rel="noopener noreferrer">
 <img align="center" height="50" width="50" src="assets/icon-whatsapp.png">
 </a>&nbsp;&nbsp;
-<a href="mailto:lellis.joseanesl@gmail.com" target="_blank" rel="noopener noreferrer">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=lellis.joseanesl@gmail.com" target="_blank" rel="noopener noreferrer">
 <img align="center" height="50" width="50" src="assets/icon-gmail.png">
 </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/joseane-lelis-b535a5148/" target="_blank" rel="noopener noreferrer">
