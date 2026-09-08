@@ -44,57 +44,43 @@ Foundation e AWS Certified AI Practitioner.
 
 <br>
 
-## 🏢 Empresa Onde Trabalho
-
-<div align="center">
-<a href="https://www.itau.com.br" target="_blank" rel="noopener noreferrer">
-<img src="assets/itau.png" width="150" alt="Itaú Unibanco"/>
-</a>
-
-<h3>Itaú Unibanco</h3>
-<p style="color:#c9d1d9;"><b>Governança & Métricas — Telecom</b></p>
-<p style="color:#8b949e; font-size:13px;">Dez/2025 — Atual · São Paulo/SP</p>
-</div>
-
-<br>
-
 ## 💼 Empresas em que já trabalhei
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="160">
+<td align="center" valign="top" width="160">
 <a href="https://www.ford.com.br" target="_blank" rel="noopener noreferrer">
 <img src="assets/ford.png" width="140" alt="Ford"/>
 </a>
-<p style="color:#c9d1d9; font-size:14px; margin-top:10px;"><b>Ford</b></p>
-<p style="color:#c9d1d9; font-size:12px;">Estagiária de BI em Marketing</p>
-<p style="color:#8b949e; font-size:12px;">Set/2024 — Jun/2025</p>
+<div style="min-height:40px; margin-top:10px;"><b style="color:#c9d1d9; font-size:14px;">Ford</b></div>
+<div style="min-height:50px;"><span style="color:#c9d1d9; font-size:12px;">Estagiária de BI em Marketing</span></div>
+<span style="color:#8b949e; font-size:12px;">Set/2024 — Jun/2025</span>
 </td>
-<td align="center" width="160">
+<td align="center" valign="top" width="160">
 <a href="https://www.caixa.gov.br" target="_blank" rel="noopener noreferrer">
 <img src="assets/caixa.png" width="140" alt="Caixa Econômica Federal"/>
 </a>
-<p style="color:#c9d1d9; font-size:14px; margin-top:10px;"><b>Caixa Econômica Federal</b></p>
-<p style="color:#c9d1d9; font-size:12px;">Monitora de Qualidade / Suporte</p>
-<p style="color:#8b949e; font-size:12px;">2019 — 2021</p>
+<div style="min-height:40px; margin-top:10px;"><b style="color:#c9d1d9; font-size:14px;">Caixa Econômica Federal</b></div>
+<div style="min-height:50px;"><span style="color:#c9d1d9; font-size:12px;">Monitora de Qualidade / Suporte</span></div>
+<span style="color:#8b949e; font-size:12px;">2019 — 2021</span>
 </td>
-<td align="center" width="160">
+<td align="center" valign="top" width="160">
 <a href="https://www.tjce.jus.br" target="_blank" rel="noopener noreferrer">
 <img src="assets/tjce.png" width="140" alt="TJCE"/>
 </a>
-<p style="color:#c9d1d9; font-size:14px; margin-top:10px;"><b>TJCE</b></p>
-<p style="color:#c9d1d9; font-size:12px;">Analista de Suporte (ITIL/Zabbix)</p>
-<p style="color:#8b949e; font-size:12px;">2021 — 2022</p>
+<div style="min-height:40px; margin-top:10px;"><b style="color:#c9d1d9; font-size:14px;">TJCE</b></div>
+<div style="min-height:50px;"><span style="color:#c9d1d9; font-size:12px;">Analista de Suporte (ITIL/Zabbix)</span></div>
+<span style="color:#8b949e; font-size:12px;">2021 — 2022</span>
 </td>
-<td align="center" width="160">
+<td align="center" valign="top" width="160">
 <a href="https://www.gov.br/pf" target="_blank" rel="noopener noreferrer">
 <img src="assets/policia-federal.png" width="140" alt="Polícia Federal"/>
 </a>
-<p style="color:#c9d1d9; font-size:14px; margin-top:10px;"><b>Polícia Federal</b></p>
-<p style="color:#c9d1d9; font-size:12px;">Analista de Suporte</p>
-<p style="color:#8b949e; font-size:12px;">2023 — 2024</p>
+<div style="min-height:40px; margin-top:10px;"><b style="color:#c9d1d9; font-size:14px;">Polícia Federal</b></div>
+<div style="min-height:50px;"><span style="color:#c9d1d9; font-size:12px;">Analista de Suporte</span></div>
+<span style="color:#8b949e; font-size:12px;">2023 — 2024</span>
 </td>
 </tr>
 </table>
