@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=35&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Joseane;I'm+a+Data+Analyst;Founder+of+Girls+Tech;Based+in+S%C3%A3o+Paulo%2C+Brazil)](https://git.io/typing-svg)
 
-<h3 align="center">Analista de Dados Júnior</h3>
+<h3 align="center">Analista de Dados & IA</h3>
 
 <p align="center">
 Em formação em Análise e Desenvolvimento de Sistemas (IFSP), atuo com análise, exploração, validação 
@@ -52,7 +52,7 @@ Foundation e AWS Certified AI Practitioner.
 </a>
 
 <h3>Itaú Unibanco</h3>
-<p style="color:#c9d1d9;"><b>Governança & Métricas — Telecom</b></p>
+<p style="color:#c9d1d9;"><b>Governança, Métricas & IA — Telecom</b></p>
 <p style="color:#8b949e; font-size:13px;">Dez/2025 — Atual · São Paulo/SP</p>
 </div>
 
